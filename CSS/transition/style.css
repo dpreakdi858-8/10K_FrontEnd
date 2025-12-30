@@ -422,7 +422,7 @@ img{
     
     position: absolute;
     top: 90px;
-    left: 40px;
+    left: 70px;
 
     color: darkviolet;
     padding: 5px;
@@ -496,3 +496,4 @@ img{
     transition-delay: 0.5s ;
 
 }
+
