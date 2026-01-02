@@ -1,0 +1,84 @@
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}  
+.container{
+    
+    height: 600px;
+    width:900px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20%;
+}
+.class-1{
+    width: 100px;
+    height:100px;
+    font-size: 20px;
+    border: 2px solid;
+}
+.class-2{
+    width: 100px;
+    height:100px;
+    border: 2px solid;
+}
+.class-3{
+    width: 100px;
+    height:100px;
+    border: 2px solid;
+}
+.class-4{
+    width: 100px;
+    height:100px;
+    border: 2px solid;
+}
+.class-5{
+    width: 100px;
+    height:100px;
+    border: 2px solid;
+}
+.class-6{
+    width: 100px;
+    height:100px;
+    border: 2px solid;
+}
+.class-7{
+    width: 100px;
+    height:100px;
+    border: 2px solid;
+}
+.class-8{
+   width: 100px;
+    height:100px;
+    border: 2px solid;
+}
+.class-1:nth-child(even){
+    background-color:green;
+}
+.class-2:nth-child(odd){
+    background-color: green;
+}
+.class-3:nth-child(even){
+    background-color: green;
+}
+.class-4:nth-child(odd){
+    background-color: green;
+}
+.class-5:nth-child(even){
+    background-color: green;
+}
+.class-6:nth-child(odd){
+    background-color: green;
+}
+.class-7:nth-child(even){
+    background-color: green;
+}
+.class-8:nth-child(odd){
+    background-color: green;
+}
+img{
+    align-items: center;
+    margin-left: 30px;
+    margin-top: 35px;
+    font-size: 40px;
+}
